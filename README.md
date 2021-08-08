@@ -10,7 +10,8 @@ Additionally, the green dice seems to be marginally "the best" in that when it o
 Exercise (post as an issue if you have the answer before anyone else): Prove that the order always flips between 1 mod 3 and 2 mod 3 dice.
 
 Output of running IntransitiveDice.py:
-```The red dice has 6 sides with a mean of 3.5
+```
+The red dice has 6 sides with a mean of 3.5
 The blue dice has 6 sides with a mean of 3.5
 The green dice has 6 sides with a mean of 3.5
 1 red   dice beats 1 blue  dice with probability 0.5833333333333334, draw: 0.0
